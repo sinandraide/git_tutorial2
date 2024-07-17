@@ -1,4 +1,4 @@
-name = "Adam"
-name2 = "Ondra"
+name = "Sarah"
 
-print(f"hello {name}{name2}")
+
+print(f"hello {name}")
